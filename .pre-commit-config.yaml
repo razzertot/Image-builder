@@ -55,7 +55,7 @@ repos:
         language: system
 
   - repo: https://github.com/errata-ai/vale
-    rev: v3.14.1
+    rev: v3.14.2
     hooks:
       - id: vale
         name: "📝 markdown · Lint markdown via vale"
